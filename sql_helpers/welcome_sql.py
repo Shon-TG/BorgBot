@@ -1,4 +1,4 @@
-from sqlalchemy import BigInteger, Boolean, Column, String, UnicodeText
+ from sqlalchemy import BigInteger, Boolean, Column, String, UnicodeText
 from sql_helpers import SESSION, BASE
 
 
